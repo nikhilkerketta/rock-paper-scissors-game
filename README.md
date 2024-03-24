@@ -1,4 +1,5 @@
 # rock-paper-scissors-game
+Check this website at https://nikhilkerketta.github.io/rock-paper-scissors-game/
 A simple Rock Paper Scissors game made using Html, Css and JS
 
 
